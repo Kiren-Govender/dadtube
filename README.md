@@ -33,7 +33,7 @@ There is nothing else to install on windows. Just run the program from the folde
 
 ### Starting a download
 
-![Main Menu](https://user-images.githubusercontent.com/109963236/211187623-f74cf28f-5335-4dfd-9ebb-d0ecf3dae751.png)
+![screenshot](https://user-images.githubusercontent.com/109963236/218306641-792bc05f-ea9e-48e0-845c-959c90ff0147.png)
 
 The user selects and copies the url of the video that is on Youtube. The user then clicks on the `Add to Queue` button on the software window, and the highest resolution video in mp4 format is downloaded to the folder that the software is executed from. All downloads are started on background threads so the window is fully functional during downloading.
 
